@@ -20,18 +20,10 @@
             "text": "Welcome to our store of original candles made from recycled bottles and beeswax!",
             "link": ""
           }
-        },
-        "announcement_a3hfHF": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_a3hfHF"
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "scheme-4",
