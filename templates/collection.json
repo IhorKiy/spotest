@@ -19,7 +19,6 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
@@ -38,22 +37,22 @@
         "padding_bottom": 68
       }
     },
-    "collection_list_VRjjAb": {
+    "collection_list_WdEGXD": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_EDaaA6": {
+        "featured_collection_Yz6XKV": {
           "type": "featured_collection",
           "settings": {
             "collection": "whisky-bottle-candles"
           }
         },
-        "featured_collection_9DEDhb": {
+        "featured_collection_Hpcxjx": {
           "type": "featured_collection",
           "settings": {
             "collection": "upcycled-liqueur-bottle-candles"
           }
         },
-        "featured_collection_LYtpnR": {
+        "featured_collection_Q8Em86": {
           "type": "featured_collection",
           "settings": {
             "collection": "frontpage"
@@ -61,9 +60,9 @@
         }
       },
       "block_order": [
-        "featured_collection_EDaaA6",
-        "featured_collection_9DEDhb",
-        "featured_collection_LYtpnR"
+        "featured_collection_Yz6XKV",
+        "featured_collection_Hpcxjx",
+        "featured_collection_Q8Em86"
       ],
       "settings": {
         "title": "Collections",
@@ -82,6 +81,6 @@
   "order": [
     "main-collection-banner",
     "main-collection-product-grid",
-    "collection_list_VRjjAb"
+    "collection_list_WdEGXD"
   ]
 }
