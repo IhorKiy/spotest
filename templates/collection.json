@@ -19,6 +19,7 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
@@ -43,19 +44,19 @@
         "featured_collection_EDaaA6": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "whisky-bottle-candles"
           }
         },
         "featured_collection_9DEDhb": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "upcycled-liqueur-bottle-candles"
           }
         },
         "featured_collection_LYtpnR": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
