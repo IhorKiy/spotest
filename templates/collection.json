@@ -22,17 +22,17 @@
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
-        "color_scheme": "scheme-4",
-        "image_ratio": "square",
+        "color_scheme": "scheme-3",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "show_rating": true,
+        "quick_add": "standard",
         "enable_filtering": true,
-        "filter_type": "horizontal",
+        "filter_type": "drawer",
         "enable_sorting": true,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "padding_top": 20,
         "padding_bottom": 68
       }
@@ -92,11 +92,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collage_dKKFr6": {
+      "type": "collage",
+      "blocks": {
+        "image_cbe98e": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_P6944Q": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_WDgJJE": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_cbe98e",
+        "product_P6944Q",
+        "collection_WDgJJE"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main-collection-banner",
     "main-collection-product-grid",
-    "multirow_fz6NVV"
+    "multirow_fz6NVV",
+    "collage_dKKFr6"
   ]
 }
