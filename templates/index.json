@@ -138,11 +138,11 @@
         "buttons_LWihxf"
       ],
       "settings": {
-        "video_url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/dd757bf4381744ca9928394f7973250a.mp4",
+        "desktop_content_position": "top-right",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "mobile_content_alignment": "center"
       }
     }
