@@ -15,7 +15,7 @@
         "heading_aH7WwP": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to KyiCandle store",
+            "heading": "<em>Welcome to KyiCandle store</em>",
             "heading_size": "h2"
           }
         },
@@ -50,29 +50,6 @@
         "desktop_content_alignment": "right",
         "color_scheme": "scheme-3",
         "mobile_content_alignment": "center"
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "collection_list_HLiFBp": {
@@ -135,7 +112,6 @@
   },
   "order": [
     "video_banner_xKqcjb",
-    "rich_text",
     "collection_list_HLiFBp",
     "featured_blog_eeLQ9f"
   ]
