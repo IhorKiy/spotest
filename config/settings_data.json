@@ -10,7 +10,7 @@
 {
   "current": {
     "logo": "shopify://shop_images/D_3_b22c8e05-dd10-4267-a91f-04a3e487694a.png",
-    "logo_width": 100,
+    "logo_width": 80,
     "type_header_font": "mono",
     "heading_scale": 110,
     "type_body_font": "quattrocento_sans_n4",
@@ -122,7 +122,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "currency_code_enabled": true,
-    "cart_type": "notification",
+    "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
