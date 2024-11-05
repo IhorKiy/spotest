@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "<em>Welcome to KyiCandle store</em>",
-            "heading_size": "h2"
+            "heading_size": "h0"
           }
         },
         "text_6UxRRJ": {
@@ -81,7 +81,7 @@
       ],
       "settings": {
         "title": "Collections",
-        "heading_size": "h2",
+        "heading_size": "h0",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "scheme-3",
